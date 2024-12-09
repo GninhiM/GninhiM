@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GninhiM
 - 👀 I’m interested in  la participation a des projets.
-- 🌱 I’m currently learning  le management de de données option big data 
+- 🌱 I’m currently data analyste
 - 💞️ I’m looking to collaborate on  des projets de develope e  et  de management de projet
 - 📫 How to reach me  gninhi.s@outlook.fr
 
